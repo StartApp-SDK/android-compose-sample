@@ -13,9 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StartIOComposeSample"
         tools:targetApi="31">
-        <meta-data
-            android:name="com.startapp.sdk.APPLICATION_ID"
-            android:value="205554332" />
+<!--        <meta-data-->
+<!--            android:name="com.startapp.sdk.APPLICATION_ID"-->
+<!--            android:value="APP ID FROM SDK PORTAL HERE" />-->
         <activity
             android:name=".MainActivity"
             android:exported="true"
